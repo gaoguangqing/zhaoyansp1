@@ -7,6 +7,9 @@
 		this.IS_MASTER = t.isMaster || !1, !this.IS_MASTER) throw Error("The DataStore can only be instantiated by the Master");
 		this.dataStore = {}
 	}
+	window.document.oncontextmenu = function() {
+				return false;
+			}
 	function i(t, e) {
 		if (this.IS_MASTER = t && t.isMaster ? t.isMaster: !1, this.IS_SLAVE = !this.IS_MASTER, this.messenger = null, this.subscribers = {},
 		this.moduleReady = e ? e: !1, this.gameState = "resume", !t || !t.messenger) throw Error("No messenger passed to the Game module instance");
