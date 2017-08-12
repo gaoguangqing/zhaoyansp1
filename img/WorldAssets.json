@@ -1,0 +1,75 @@
+{"frames": {
+"lava_slosh_01.png":
+{
+	"frame": {"x":1699,"y":972,"w":180,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":60},
+	"sourceSize": {"w":180,"h":60}
+},
+"lava_slosh_02.png":
+{
+	"frame": {"x":1510,"y":915,"w":180,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":60},
+	"sourceSize": {"w":180,"h":60}
+},
+"lava_slosh_03.png":
+{
+	"frame": {"x":1699,"y":903,"w":180,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":60},
+	"sourceSize": {"w":180,"h":60}
+},
+"lava_slosh_04.png":
+{
+	"frame": {"x":1510,"y":846,"w":180,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":60},
+	"sourceSize": {"w":180,"h":60}
+},
+"lava_slosh_05.png":
+{
+	"frame": {"x":1510,"y":777,"w":180,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":60},
+	"sourceSize": {"w":180,"h":60}
+},
+"lava_slosh_06.png":
+{
+	"frame": {"x":1514,"y":708,"w":180,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":60},
+	"sourceSize": {"w":180,"h":60}
+},
+"lava_slosh_07.png":
+{
+	"frame": {"x":1514,"y":639,"w":180,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":60},
+	"sourceSize": {"w":180,"h":60}
+},
+"lava_slosh_08.png":
+{
+	"frame": {"x":1514,"y":570,"w":180,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":60},
+	"sourceSize": {"w":180,"h":60}
+}},
+"meta": {
+	"app": "",
+	"version": "1.0",
+	"image": "WorldAssets.png",
+	"format": "RGBA8888",
+	"size": {"w":2047,"h":1558},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:627efb99d36e69ad57c38dd29c802dbd$"
+}
+}

@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-title" content="Pepper Runner">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0" />
+
+        <!-- spil games api -->
+        <script type="text/javascript" src="./game.js"></script>
+
+        <link rel="stylesheet" href="src/css/normalize.css">
+        <link rel="stylesheet" href="src/css/main.css">
+        <title>赵焱的进化</title>
+
+        <!-- For third-generation iPad with high-resolution Retina display: -->
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="144x144.png">
+
+
+        <!-- For iPhone with high-resolution Retina display: -->
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="144x144.png">
+
+
+        <!-- For first- and second-generation iPad: -->
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="72x72.png">
+
+
+        <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+        <link rel="apple-touch-icon-precomposed" href="144x144.png">
+
+
+
+        <style>
+            @font-face {
+                font-family: BadaBoom;
+                src: local('BadaBoom'), url('ShakeAndBake.ttf');
+            }
+        </style>
+        <script src="./play.js"></script>
+    </head>
+    <body>
+
+        <div id="scrollup">
+            <img src="img/scrollup.gif" width="189" height="339">
+            <img src="img/spil/Splash_Image.png" style="display: none; position:absolute;">
+        </div>
+
+        <!--<div id="overlay"></div>-->
+
+        <div id="loader" style="display: none; left: 512px; top: 157.5px;">
+            <div id="loaderPepper">
+
+            </div>
+            <img id="loaderText" src="./img/loader0001.png">
+            <img id="loaderBanner" src="img/spil/A10_200x62.png">
+        </div>
+        <div id="holder" style="display: block;">
+        	<canvas id="mainCanvas" height="640"></canvas>
+            <!--<div id="scr" height="640"></div>-->
+            <!-- width="960"-->
+        </div>
+
+
+
+        <script src="./src/js/external/jquery.min.js"></script>
+        <script src="./src/js/SegmentData.js"></script>
+       
+       
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.3.min.js"><\/script>')</script>
+
+        <script src="./src/js/external/plugins.js"></script>
+        <script src="./src/js/external/TimelineLite.min.js"></script>
+        <script src="./src/js/external/TweenLite.min.js"></script>
+		<script src="./src/js/external/EasePack.min.js"></script>
+        <script src="./src/js/external/stats.min.js"></script>
+        <script src="./src/js/external/pixi.js"></script>
+        <script src="./src/js/Math2.js"></script>
+
+         <script src="./src/js/core/UiButton.js"></script>
+
+        <script src="./src/js/spilGamesAPI.js"></script>
+
+        <script src="./src/js/Runner.js"></script>
+
+        <script src="./src/js/StressTest.js"></script>
+        <script src="./src/js/Background.js"></script>
+         <script src="./src/js/Lava.js"></script>
+         <script src="./src/js/JoyBackground.js"></script>
+          <script src="./src/js/LowFiBackground.js"></script>
+
+         <script src="./src/js/RprView.js"></script>
+          <script src="./src/js/GameObjectPool.js"></script>
+          <script src="./src/js/CollisionManager.js"></script>
+          <script src="./src/js/FloorManager.js"></script>
+           <script src="./src/js/SegmentManager.js"></script>
+          <script src="./src/js/Enemy.js"></script>
+          <script src="./src/js/EnemyManager.js"></script>
+           <script src="./src/js/Pickup.js"></script>
+          <script src="./src/js/PickupManager.js"></script>
+           <script src="./src/js/RprEngine.js"></script>
+            <script src="./src/js/Countdown.js"></script>
+           <script src="./src/js/Steve.js"></script>
+             <script src="./src/js/SteveTrail2.js"></script>
+             <script src="./src/js/Partical.js"></script>
+            <script src="./src/js/Splash.js"></script>
+
+
+         <script src="./src/js/PowerBar.js"></script>
+        <script src="./src/js/Score.js"></script>
+
+
+
+
+
+
+     <div id ="fontLoader">
+         <div style="font-family: BadaBoom">.</div>
+     </div>
+
+     <script src="./src/js/windowMode.js"></script>
+     <script src="./src/js/ios7.js"></script>
+    <script>a10.play.init();</script>
+</body></html>
