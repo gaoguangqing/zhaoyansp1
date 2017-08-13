@@ -212,22 +212,7 @@
             "img/animation/pepperRun/pepperRun0011.png",
             "img/animation/pepperRun/pepperRun0012.png",
             "img/animation/pepperRun/pepperRun0013.png",
-            "img/animation/pepperRun/pepperRun0014.png",
-            "img/animation/pepperRun/pepperRun0015.png",
-            "img/animation/pepperRun/pepperRun0016.png",
-            "img/animation/pepperRun/pepperRun0017.png",
-            "img/animation/pepperRun/pepperRun0018.png",
-            "img/animation/pepperRun/pepperRun0019.png",
-            "img/animation/pepperRun/pepperRun0020.png",
-            "img/animation/pepperRun/pepperRun0021.png",
-            "img/animation/pepperRun/pepperRun0022.png",
-            "img/animation/pepperRun/pepperRun0023.png",
-            "img/animation/pepperRun/pepperRun0024.png",
-            "img/animation/pepperRun/pepperRun0025.png",
-            "img/animation/pepperRun/pepperRun0026.png",
-            "img/animation/pepperRun/pepperRun0027.png",
-            "img/animation/pepperRun/pepperRun0028.png",
-            "img/animation/pepperRun/pepperRun0029.png",
+      
 
 
             "img/animation/pepperFly/pepperFly0001.png",
