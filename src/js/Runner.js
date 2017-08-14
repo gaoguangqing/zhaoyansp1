@@ -218,15 +218,7 @@
             "img/animation/pepperFly/pepperFly0001.png",
             "img/animation/pepperFly/pepperFly0002.png",
             "img/animation/pepperFly/pepperFly0003.png",
-            "img/animation/pepperFly/pepperFly0004.png",
-            "img/animation/pepperFly/pepperFly0005.png",
-            "img/animation/pepperFly/pepperFly0006.png",
-            "img/animation/pepperFly/pepperFly0007.png",
-            "img/animation/pepperFly/pepperFly0008.png",
-            "img/animation/pepperFly/pepperFly0009.png",
-            "img/animation/pepperFly/pepperFly0010.png",
-            "img/animation/pepperFly/pepperFly0011.png",
-            "img/animation/pepperFly/pepperFly0012.png",
+           
 
             "img/animation/pepperDie/pepperDie0001.png",
             "img/animation/pepperDie/pepperDie0002.png",
