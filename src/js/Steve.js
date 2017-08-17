@@ -7,24 +7,13 @@ GAME.Steve = function() {
         PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0001.png"),
         PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0002.png"),
         PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0003.png"),
-        PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0004.png"),
-        PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0005.png"),
-        PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0006.png"),
-        PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0007.png"),
-        PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0008.png"),
-        PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0009.png"),
-        PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0010.png"),
-        PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0011.png"),
-        PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0012.png"),
-        PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0013.png")
+        PIXI.Texture.fromImage("img/animation/pepperRun/pepperRun0004.png")
     ];
 
     //this.flyingFrames = [PIXI.Texture.fromFrame("characterFLATflying_01.png"), PIXI.Texture.fromFrame("characterFLATflying_02.png"), PIXI.Texture.fromFrame("characterFLATflying_03.png")];
 
     this.flyingFrames = [
-        PIXI.Texture.fromImage("img/animation/pepperFly/pepperFly0001.png"),
-        PIXI.Texture.fromImage("img/animation/pepperFly/pepperFly0002.png"),
-        PIXI.Texture.fromImage("img/animation/pepperFly/pepperFly0003.png")
+        PIXI.Texture.fromImage("img/animation/pepperFly/pepperFly0001.png")
     ];
 
     var textureDie16 = PIXI.Texture.fromImage("img/animation/pepperDie/pepperDie0016.png");

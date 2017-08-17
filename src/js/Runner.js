@@ -203,21 +203,11 @@
             "img/animation/pepperRun/pepperRun0002.png",
             "img/animation/pepperRun/pepperRun0003.png",
             "img/animation/pepperRun/pepperRun0004.png",
-            "img/animation/pepperRun/pepperRun0005.png",
-            "img/animation/pepperRun/pepperRun0006.png",
-            "img/animation/pepperRun/pepperRun0007.png",
-            "img/animation/pepperRun/pepperRun0008.png",
-            "img/animation/pepperRun/pepperRun0009.png",
-            "img/animation/pepperRun/pepperRun0010.png",
-            "img/animation/pepperRun/pepperRun0011.png",
-            "img/animation/pepperRun/pepperRun0012.png",
-            "img/animation/pepperRun/pepperRun0013.png",
+ 
       
 
 
             "img/animation/pepperFly/pepperFly0001.png",
-            "img/animation/pepperFly/pepperFly0002.png",
-            "img/animation/pepperFly/pepperFly0003.png",
            
 
             "img/animation/pepperDie/pepperDie0001.png",
